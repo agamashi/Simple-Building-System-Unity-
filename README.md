@@ -1,1 +1,1 @@
-SImple Building System (Unity)
+Simple building system for Unity, with simple collision detection
